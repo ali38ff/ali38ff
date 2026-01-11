@@ -1,18 +1,19 @@
 # Hi, I'm Ali 👋
 
-Information Systems student at Najran University (Expected Jun 2026).  
-Focus: Networking & Cybersecurity + Backend & IoT projects.  
-Seeking COOP / Internship in IT, Networking, Cybersecurity, or Backend Development.
+Information Systems student | Networking, Systems & Cybersecurity
+CCNA-level • CTF • Raspberry Pi • System Integration
 
 ## 🔧 Technical Skills
 - **Networking:** TCP/IP, DNS, DHCP (CCNA-level)
-- **Cybersecurity:** Fundamentals, CTF, Digital Forensics (Basics)
+- **Cybersecurity:** Fundamentals, CTF, Digital Forensics
 - **Backend:** Python, Flask, REST APIs
-- **Databases:** SQL (Basics), JSON storage
-- **Systems:** Windows & Linux troubleshooting, Active Directory (Basics)
+- **Databases:** SQL, JSON storage
+- **Mobile & UI:** Flutter, Dart 
+- **Systems:** Windows & Linux troubleshooting, Active Directory 
 - **IoT:** Raspberry Pi, sensors, GPIO, system integration
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS, Flutter, Dart 
 - **Tools:** Git/GitHub, Microsoft Office
+
 
 ## ⭐ Featured Projects
 ### SENT – Smart Environmental Navigation & Tracking Robot
