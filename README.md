@@ -25,6 +25,10 @@ Backend built with Python + Flask, real-time alerts (WhatsApp/Email), live strea
 Python app for budgeting, expense tracking, alerts, and JSON-based persistence.  
 🔗 https://github.com/ali38ff/BudgetWise
 
+### Supermarket Management System (Database Project – Team)
+Group academic database project. Contributed to ERD design, SQL table creation, and query implementation.  
+🔗 https://github.com/ali38ff/supermarket-db-system
+
 ### E-Commerce Website UI
 Multi-page e-commerce frontend UI built with HTML and CSS.  
 🔗 https://github.com/ali38ff/online-store-ui
