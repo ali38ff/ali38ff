@@ -17,7 +17,7 @@ CCNA-level • CTF • Raspberry Pi • System Integration
 
 ## ⭐ Featured Projects
 ### Cyber38f AI Tool 
-AI security scanner with Red/Blue/GRC agents that detects open ports, simulates attacks, maps to MITRE ATT&CK, calculates NIST/ISO risk scores, and generates automated security reports.
+AI security scanner with Red/Blue/GRC agents that detects open ports, simulates attacks, maps to MITRE ATT&CK, calculates NIST/ISO risk scores, and generates automated security reports.  
 🔗 https://github.com/ali38ff/Cyber38f-project
 
 ### SENT – Smart Environmental Navigation & Tracking Robot
