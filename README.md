@@ -34,7 +34,7 @@ Group academic database project. Contributed to ERD design, SQL table creation, 
 🔗 https://github.com/ali38ff/supermarket-db-system
 
 ### E-Commerce Website UI
-Multi-page e-commerce frontend UI built with HTML and CSS.The website https://ali38ff.github.io/online-store-ui/
+Multi-page e-commerce frontend UI built with HTML and CSS.The website https://ali38ff.github.io/online-store-ui/ 
 🔗 https://github.com/ali38ff/online-store-ui
     
 
