@@ -17,7 +17,8 @@ CCNA-level • CTF • Raspberry Pi • System Integration
 
 ## ⭐ Featured Projects
 ### Cyber38f AI Tool 
-The core AI security assessment tool is functional, including Red Team attack simulation, Blue Team defense monitoring, and GRC risk assessment. The screenshot above shows the IT infrastructure used for testing.
+AI security scanner with Red/Blue/GRC agents that detects open ports, simulates attacks, maps to MITRE ATT&CK, calculates NIST/ISO risk scores, and generates automated security reports.
+🔗 https://github.com/ali38ff/Cyber38f-project
 
 ### SENT – Smart Environmental Navigation & Tracking Robot
 IoT-based smart robot for detecting gas and water hazards using Raspberry Pi and sensors.  
